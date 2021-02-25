@@ -1,0 +1,16 @@
+{
+  "name": "node_api_m1_2021",
+  "version": "1.0.0",
+  "description": "M1dev 2020-2021 ECV Digital Paris",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Owen Coogan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
